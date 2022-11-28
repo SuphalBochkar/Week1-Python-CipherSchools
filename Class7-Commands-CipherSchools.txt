@@ -1,0 +1,11 @@
+to know current directory - pwd
+new folder - mkdir
+to change drive - a://
+to print list - ls
+to auto select - Tab
+to open file - code[filename]
+to run file - python[filename]
+to get out of file - cd ..
+to get out of the whole directory = cd ../../../
+delete a file - rm [filename]
+to move file from one to other - cp [filename] ./[foldername]
