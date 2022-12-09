@@ -12,12 +12,12 @@ i=0
 
 
 temp_var = ""
-j=0
+i=0
 while i < len(name):
     if name[i] not in temp_var:
         temp_var += name[i]
         print(f"{name[i]} : {name.count(name[i])}")
-    j+=1
+    i+=1
     
     
     
