@@ -6,12 +6,15 @@ n="SuPhaL BoChKarss "
 # print(le)
 
 # #^ Lower Case
-# print(n.lower())
+print(n.lower())
 
-# print(n.upper())
+# #^ Upper Case
+print(n.upper())
 
-# print(n.title())
+# #^ Title Case
+print(n.title())
 
+# #^ Count Case
 print(n.count("s"))
 
 
